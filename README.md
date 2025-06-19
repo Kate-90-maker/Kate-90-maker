@@ -1,6 +1,7 @@
 ### 👋 Hi, I’m Cathrine Meyers
 
 🎯 Aspiring AWS AI Engineer | 💬 Passionate about online safety & ethical technology  
+📜AWS Certified Educate Machine Learning Foundations
 📺 From sports broadcasting to building secure digital tools in tech  
 🌍 South Africa 🇿🇦
 
